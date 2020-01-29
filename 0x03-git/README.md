@@ -17,3 +17,4 @@ General
     Which files should and which files should not appear in your repod
     test
     test
+    test tree
